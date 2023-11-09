@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    { "name": "libunistring", "version>=": "1.1" },
+    { "name": "pcre2", "version>=": "10.42" },
+    { "name": "ncurses", "version>=": "6.4" }
+  ]
+}
