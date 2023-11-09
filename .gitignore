@@ -62,4 +62,5 @@
 
 # CMake / Conan
 build*/
+dist/
 CMakeUserPresets.json
