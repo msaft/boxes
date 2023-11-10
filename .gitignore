@@ -64,3 +64,4 @@
 build*/
 dist/
 CMakeUserPresets.json
+utest/dummy_out.txt
